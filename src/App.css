@@ -1,0 +1,23 @@
+.animate-slow-spin {
+  animation: spin 20s linear infinite;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.gradient-text {
+  background: linear-gradient(135deg, #9dfc03, #eb5851);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.hover-glow:hover {
+  box-shadow: 0 0 20px rgba(157, 252, 3, 0.3);
+}
+
+.parallax-container {
+  transform-style: preserve-3d;
+  perspective: 1000px;
+}

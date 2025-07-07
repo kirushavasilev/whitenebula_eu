@@ -1,0 +1,18 @@
+User-Agent: *
+Disallow: /page58736675.html
+Disallow: /bottom
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow: /tilda/cart*
+Disallow: /tilda/product*
+Disallow: /tilda/event*
+Disallow: /*_escaped_fragment_*
+Disallow:
+
+
+Sitemap: https://whitenebula.eu/sitemap.xml
+Sitemap: https://whitenebula.eu/sitemap-store.xml
+Host: https://whitenebula.eu
